@@ -8,4 +8,5 @@
 
 ## My Projects
 - 📊 [Interactive Data Science Portfolio](https://huggingface.co/anixlynch)
-- 📈 [Streamlit Dashboard](https://huggingface.co/anixlynch/streamlit-app)
+- 📈 [Kaggle Profile](https://www.kaggle.com/anixlynch)
+
