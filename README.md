@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anixlynch/)
 [![Twitter](https://img.shields.io/badge/Twitter-@anixlynch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anixlynch)
 [![Kaggle](https://img.shields.io/badge/Kaggle-anixlynch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
+[![Medium](https://img.shields.io/badge/Medium-@anixlynch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
 
 ## 🔥 Featured Project
 
@@ -58,6 +59,7 @@ python src/search.py "python web scraping tips"
 
 - 📊 **[Interactive Data Science Portfolio](https://huggingface.co/anixlynch)** - HuggingFace ML models
 - 📈 **[Kaggle Competitions](https://www.kaggle.com/anixlynch)** - Data science challenges
+- ✍️ **[Medium Articles](https://medium.com/@anixlynch)** - AI & tech insights
 - 🌐 **[Portfolio Website](https://www.gozeroshot.dev)** - Full showcase of projects
 
 ---
@@ -78,6 +80,7 @@ Always excited to collaborate on AI projects or discuss the latest in ML enginee
 - 🐦 **Quick thoughts:** [Twitter @anixlynch](https://twitter.com/anixlynch)
 - 📁 **Portfolio:** [gozeroshot.dev](https://www.gozeroshot.dev)
 - 📊 **Data Science:** [Kaggle](https://www.kaggle.com/anixlynch)
+- ✍️ **Writing:** [Medium](https://medium.com/@anixlynch)
 
 ---
 
