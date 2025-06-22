@@ -47,11 +47,7 @@ python src/search.py "python web scraping tips"
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## 📊 Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anix-lynch&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
