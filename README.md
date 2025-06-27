@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gozeroshot.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://www.gozeroshot.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anixlynch/)
 [![Twitter](https://img.shields.io/badge/Twitter-@anixlynch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anixlynch)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-anixlynch-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/anixlynch)
 [![Kaggle](https://img.shields.io/badge/Kaggle-anixlynch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
 [![Medium](https://img.shields.io/badge/Medium-@anixlynch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
 
@@ -47,16 +48,28 @@ python src/search.py "python web scraping tips"
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
+## 🧠 What I'm Building
+
+🚀 Real-time AI tools and automation workflows focused on zero-shot productivity.
+
+### ⚙️ Recent Projects
+
+- 🤖 **Job Hunt Automation** – AI-powered application workflows with Claude + n8n
+- 🐼 **Detective Pandas** – Exploratory data agent (LangChain + Pandas)  
+- 🌊 **Stream Dream** – Real-time pipeline factory (Airflow + Kafka)  
+- 🔄 **MCP Integrations** – Claude Model Context Protocol servers & tools
+- 🖥️ **gozeroshot.dev** – Personal brand and AI freelance portfolio
 
 ---
 
-## 🚀 Other Projects
+## 🚀 ML Portfolio & Data Science
 
-- 📊 **[Interactive Data Science Portfolio](https://huggingface.co/anixlynch)** - HuggingFace ML models
-- 📈 **[Kaggle Competitions](https://www.kaggle.com/anixlynch)** - Data science challenges
-- ✍️ **[Medium Articles](https://medium.com/@anixlynch)** - AI & tech insights
-- 🌐 **[Portfolio Website](https://www.gozeroshot.dev)** - Full showcase of projects
+- 🤗 **[HuggingFace Models](https://huggingface.co/anixlynch)** - NLP models including NER transformers
+- 📈 **[Kaggle Competitions](https://www.kaggle.com/anixlynch)** - Data science challenges & solutions
+- ✍️ **[Medium Articles](https://medium.com/@anixlynch)** - AI & ML engineering insights
+- 🌐 **[Portfolio Website](https://www.gozeroshot.dev)** - Complete project showcase
 
 ---
 
@@ -75,9 +88,10 @@ Always excited to collaborate on AI projects or discuss the latest in ML enginee
 - 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/anixlynch/)
 - 🐦 **Quick thoughts:** [Twitter @anixlynch](https://twitter.com/anixlynch)
 - 📁 **Portfolio:** [gozeroshot.dev](https://www.gozeroshot.dev)
+- 🤗 **ML Models:** [HuggingFace](https://huggingface.co/anixlynch)
 - 📊 **Data Science:** [Kaggle](https://www.kaggle.com/anixlynch)
 - ✍️ **Writing:** [Medium](https://medium.com/@anixlynch)
 
 ---
 
-*"Building the future, one AI tool at a time."* ✨
+*Quality projects > Vanity metrics* ✨
