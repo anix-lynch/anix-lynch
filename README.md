@@ -59,7 +59,7 @@ python src/search.py "python web scraping tips"
 - 🐼 **Detective Pandas** – Exploratory data agent (LangChain + Pandas)  
 - 🌊 **Stream Dream** – Real-time pipeline factory (Airflow + Kafka)  
 - 🔄 **MCP Integrations** – Claude Model Context Protocol servers & tools
-- 🖥️ **gozeroshot.dev** – Personal brand and AI development portfolio
+- 🧪 **gozeroshot.dev** – Cutting-edge AI concept experiments & showcase
 - 🤖 **AI Workflow Automation** – Smart application pipelines with Claude + n8n
 
 ---
