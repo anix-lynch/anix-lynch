@@ -56,11 +56,11 @@ python src/search.py "python web scraping tips"
 
 ### ⚙️ Recent Projects
 
-- 🤖 **Job Hunt Automation** – AI-powered application workflows with Claude + n8n
 - 🐼 **Detective Pandas** – Exploratory data agent (LangChain + Pandas)  
 - 🌊 **Stream Dream** – Real-time pipeline factory (Airflow + Kafka)  
 - 🔄 **MCP Integrations** – Claude Model Context Protocol servers & tools
-- 🖥️ **gozeroshot.dev** – Personal brand and AI freelance portfolio
+- 🖥️ **gozeroshot.dev** – Personal brand and AI development portfolio
+- 🤖 **AI Workflow Automation** – Smart application pipelines with Claude + n8n
 
 ---
 
