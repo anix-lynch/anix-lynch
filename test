@@ -1,0 +1,120 @@
+# Hi, I'm Anix Lynch! 👋
+
+**AI Engineer & Full-Stack Developer** building practical AI tools that solve real problems ✨  
+*Former VC Managing Partner | Chicago Booth MBA | JLPT N1*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gozeroshot.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://www.gozeroshot.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anixlynch/)
+[![Twitter](https://img.shields.io/badge/Twitter-@anixlynch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anixlynch)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-anixlynch-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/anixlynch)
+[![Kaggle](https://img.shields.io/badge/Kaggle-anixlynch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
+[![Medium](https://img.shields.io/badge/Medium-@anixlynch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
+
+**Elite Credentials:**  
+[![Chicago Booth MBA](https://img.shields.io/badge/MBA-University%20of%20Chicago%20Booth-maroon?style=flat-square&logo=graduation-cap)](https://github.com/anix-lynch/github-cert-showcase)
+[![JLPT N1](https://img.shields.io/badge/Japanese-JLPT%20N1%20Master-red?style=flat-square&logo=japan)](https://github.com/anix-lynch/github-cert-showcase)
+[![Meta Certified](https://img.shields.io/badge/Meta-Data%20Analyst%20Professional-1877F2?style=flat-square&logo=meta)](https://www.credly.com/badges/b3bc1002-6ae8-43dd-a018-b82cef8586e6/public_url)
+[![VC Experience](https://img.shields.io/badge/Former-VC%20Managing%20Partner-gold?style=flat-square&logo=trending-up)](https://github.com/anix-lynch/github-cert-showcase)
+
+---
+
+## 🎯 Unique Positioning
+
+**Rare combination:** Investment experience meets cutting-edge AI engineering
+- 🏦 **Former VC Managing Partner** with $2B+ portfolio experience (Expara, BlackRock-MGPA)
+- 🎓 **Chicago Booth MBA** + **16 years Japan experience** + **JLPT N1** mastery
+- 🤖 **Meta-certified AI/Data specialist** building next-generation tools
+- 🌏 **Cross-cultural expertise** bridging Silicon Valley innovation with global markets
+
+---
+
+## 🔥 Featured Project
+
+### 🧠 [Claude RAG Memory Search](https://github.com/anix-lynch/claude-rag-memory-search)
+**Give Claude ChatGPT-style memory** - Local RAG system for searching conversation history
+
+🎯 **The Problem:** Claude forgets everything between conversations  
+✨ **The Solution:** Semantic search through your chat exports using ChromaDB + LangChain
+
+**Tech Stack:** Python • LangChain • ChromaDB • Streamlit • HuggingFace Embeddings
+
+```bash
+# Search your Claude conversations semantically
+python src/search.py "python web scraping tips"
+```
+
+⭐ **Why it matters:** Built a feature that Anthropic doesn't even offer!
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & ML:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=database&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Development:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Data & Cloud:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🧠 What I'm Building
+
+🚀 **AI tools with business intelligence** - Combining technical expertise with strategic investment perspective
+
+### ⚙️ Recent Projects
+
+- 🐼 **Detective Pandas** – Exploratory data agent (LangChain + Pandas)  
+- 🌊 **Stream Dream** – Real-time pipeline factory (Airflow + Kafka)  
+- 🔄 **MCP Integrations** – Claude Model Context Protocol servers & tools
+- 🧪 **gozeroshot.dev** – Cutting-edge AI concept experiments & showcase
+- 🤖 **AI Workflow Automation** – Smart application pipelines with Claude + n8n
+- 💼 **Investment-Grade Analytics** – Due diligence automation for deal flow analysis
+
+---
+
+## 🚀 ML Portfolio & Data Science
+
+- 🤗 **[HuggingFace Models](https://huggingface.co/anixlynch)** - NLP models including NER transformers
+- 📈 **[Kaggle Competitions](https://www.kaggle.com/anixlynch)** - Data science challenges & solutions
+- ✍️ **[Medium Articles](https://medium.com/@anixlynch)** - AI & ML engineering insights
+- 🌐 **[Portfolio Website](https://www.gozeroshot.dev)** - Complete project showcase
+- 🎓 **[Professional Credentials](https://github.com/anix-lynch/github-cert-showcase)** - MBA + VC + AI certifications
+
+---
+
+## 💡 Current Focus
+
+🧠 **Building AI tools** that bridge the gap between cutting-edge research and practical business applications  
+⚡ **RAG systems** for enterprise knowledge management  
+🤖 **LLM integrations** that solve real investment and business problems  
+🌏 **Global AI expansion** leveraging Japan/APAC market expertise
+
+---
+
+## 📫 Let's Connect!
+
+Always excited to collaborate on AI projects, discuss investment opportunities in AI/ML, or explore Japan/APAC market expansion!
+
+- 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/anixlynch/)
+- 🐦 **Quick thoughts:** [Twitter @anixlynch](https://twitter.com/anixlynch)
+- 📁 **Portfolio:** [gozeroshot.dev](https://www.gozeroshot.dev)
+- 🤗 **ML Models:** [HuggingFace](https://huggingface.co/anixlynch)
+- 📊 **Data Science:** [Kaggle](https://www.kaggle.com/anixlynch)
+- ✍️ **Writing:** [Medium](https://medium.com/@anixlynch)
+
+---
+
+*Quality projects > Vanity metrics* ✨  
+*Investment mindset meets engineering excellence* 🎯
