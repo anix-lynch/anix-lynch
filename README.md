@@ -1,6 +1,7 @@
 # Hi, I'm Anix Lynch! 👋
 
-**AI Engineer & Full-Stack Developer** building practical AI tools that solve real problems ✨
+**AI Engineer & Full-Stack Developer** building practical AI tools that solve real problems ✨  
+*Former VC Managing Partner | Chicago Booth MBA | JLPT N1*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gozeroshot.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://www.gozeroshot.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anixlynch/)
@@ -8,6 +9,24 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-anixlynch-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/anixlynch)
 [![Kaggle](https://img.shields.io/badge/Kaggle-anixlynch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
 [![Medium](https://img.shields.io/badge/Medium-@anixlynch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
+
+**Elite Credentials:**  
+[![Chicago Booth MBA](https://img.shields.io/badge/MBA-University%20of%20Chicago%20Booth-maroon?style=flat-square&logo=graduation-cap)](https://github.com/anix-lynch/github-cert-showcase)
+[![JLPT N1](https://img.shields.io/badge/Japanese-JLPT%20N1%20Master-red?style=flat-square&logo=japan)](https://github.com/anix-lynch/github-cert-showcase)
+[![Meta Certified](https://img.shields.io/badge/Meta-Data%20Analyst%20Professional-1877F2?style=flat-square&logo=meta)](https://www.credly.com/badges/b3bc1002-6ae8-43dd-a018-b82cef8586e6/public_url)
+[![VC Experience](https://img.shields.io/badge/Former-VC%20Managing%20Partner-gold?style=flat-square&logo=trending-up)](https://github.com/anix-lynch/github-cert-showcase)
+
+---
+
+## 🎯 Unique Positioning
+
+**Rare combination:** Investment experience meets cutting-edge AI engineering
+- 🏦 **Former VC Managing Partner** with $2B+ portfolio experience (Expara, BlackRock-MGPA)
+- 🎓 **Chicago Booth MBA** + **16 years Japan experience** + **JLPT N1** mastery
+- 🤖 **Meta-certified AI/Data specialist** building next-generation tools
+- 🌏 **Cross-cultural expertise** bridging Silicon Valley innovation with global markets
+
+---
 
 ## 🔥 Featured Project
 
@@ -52,7 +71,7 @@ python src/search.py "python web scraping tips"
 
 ## 🧠 What I'm Building
 
-🚀 Real-time AI tools and automation workflows focused on zero-shot productivity.
+🚀 **AI tools with business intelligence** - Combining technical expertise with strategic investment perspective
 
 ### ⚙️ Recent Projects
 
@@ -61,6 +80,7 @@ python src/search.py "python web scraping tips"
 - 🔄 **MCP Integrations** – Claude Model Context Protocol servers & tools
 - 🧪 **gozeroshot.dev** – Cutting-edge AI concept experiments & showcase
 - 🤖 **AI Workflow Automation** – Smart application pipelines with Claude + n8n
+- 💼 **Investment-Grade Analytics** – Due diligence automation for deal flow analysis
 
 ---
 
@@ -70,20 +90,22 @@ python src/search.py "python web scraping tips"
 - 📈 **[Kaggle Competitions](https://www.kaggle.com/anixlynch)** - Data science challenges & solutions
 - ✍️ **[Medium Articles](https://medium.com/@anixlynch)** - AI & ML engineering insights
 - 🌐 **[Portfolio Website](https://www.gozeroshot.dev)** - Complete project showcase
+- 🎓 **[Professional Credentials](https://github.com/anix-lynch/github-cert-showcase)** - MBA + VC + AI certifications
 
 ---
 
 ## 💡 Current Focus
 
-🧠 **Building AI tools** that bridge the gap between cutting-edge research and practical applications  
-⚡ **RAG systems** for personal knowledge management  
-🤖 **LLM integrations** that actually solve real problems  
+🧠 **Building AI tools** that bridge the gap between cutting-edge research and practical business applications  
+⚡ **RAG systems** for enterprise knowledge management  
+🤖 **LLM integrations** that solve real investment and business problems  
+🌏 **Global AI expansion** leveraging Japan/APAC market expertise
 
 ---
 
 ## 📫 Let's Connect!
 
-Always excited to collaborate on AI projects or discuss the latest in ML engineering!
+Always excited to collaborate on AI projects, discuss investment opportunities in AI/ML, or explore Japan/APAC market expansion!
 
 - 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/anixlynch/)
 - 🐦 **Quick thoughts:** [Twitter @anixlynch](https://twitter.com/anixlynch)
@@ -94,4 +116,5 @@ Always excited to collaborate on AI projects or discuss the latest in ML enginee
 
 ---
 
-*Quality projects > Vanity metrics* ✨
+*Quality projects > Vanity metrics* ✨  
+*Investment mindset meets engineering excellence* 🎯
