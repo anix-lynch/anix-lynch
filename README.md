@@ -1,4 +1,4 @@
-# Hi there, I'm Bchan! 👋
+# Hi there, I'm Anix! 👋
 
 **Strategic Investment Professional** transitioning to **AI Engineering** - Building practical AI tools that solve real problems ✨
 
