@@ -1,120 +1,137 @@
-# Hi, I'm Anix Lynch! 👋
+# Hi there, I'm Bchan! π
 
-**AI Engineer & Full-Stack Developer** building practical AI tools that solve real problems ✨  
-*Former VC Managing Partner | Chicago Booth MBA | JLPT N1*
+**AI Engineer & Full-Stack Developer** building practical AI tools that solve real problems β¨
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gozeroshot.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://www.gozeroshot.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anixlynch/)
-[![Twitter](https://img.shields.io/badge/Twitter-@anixlynch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anixlynch)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-anixlynch-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/anixlynch)
-[![Kaggle](https://img.shields.io/badge/Kaggle-anixlynch-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
-[![Medium](https://img.shields.io/badge/Medium-@anixlynch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
+## π About Me
 
-**Elite Credentials:**  
-[![Chicago Booth MBA](https://img.shields.io/badge/MBA-University%20of%20Chicago%20Booth-maroon?style=flat-square&logo=graduation-cap)](https://github.com/anix-lynch/github-cert-showcase)
-[![JLPT N1](https://img.shields.io/badge/Japanese-JLPT%20N1%20Master-red?style=flat-square&logo=japan)](https://github.com/anix-lynch/github-cert-showcase)
-[![Meta Certified](https://img.shields.io/badge/Meta-Data%20Analyst%20Professional-1877F2?style=flat-square&logo=meta)](https://www.credly.com/badges/b3bc1002-6ae8-43dd-a018-b82cef8586e6/public_url)
-[![VC Experience](https://img.shields.io/badge/Former-VC%20Managing%20Partner-gold?style=flat-square&logo=trending-up)](https://github.com/anix-lynch/github-cert-showcase)
+Strategic technology leader with a unique blend of **Investment/VC background** and **cutting-edge AI engineering skills**. I transform complex data into actionable insights and build AI systems that bridge the gap between research and real-world applications.
+
+**Background:**
+- π° Venture Capital, Private Equity, Family Office Operations
+- π  Real Estate Investment, Institutional Capital, Cross-border Deals  
+- π Strategic Planning, Go-to-Market, International Expansion
+- π Japanese Language & Startup Operations Leadership
 
 ---
 
-## 🎯 Unique Positioning
+## π οΈ Tech Stack
 
-**Rare combination:** Investment experience meets cutting-edge AI engineering
-- 🏦 **Former VC Managing Partner** with $2B+ portfolio experience (Expara, BlackRock-MGPA)
-- 🎓 **Chicago Booth MBA** + **16 years Japan experience** + **JLPT N1** mastery
-- 🤖 **Meta-certified AI/Data specialist** building next-generation tools
-- 🌏 **Cross-cultural expertise** bridging Silicon Valley innovation with global markets
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/πΉHugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### Frontend & Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Analytics & BI Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🔥 Featured Project
+## π Featured Projects
 
-### 🧠 [Claude RAG Memory Search](https://github.com/anix-lynch/claude-rag-memory-search)
+### π€ [Claude RAG Memory Search](https://github.com/anix-lynch/claude-rag-memory-search)
 **Give Claude ChatGPT-style memory** - Local RAG system for searching conversation history
+- π― **The Problem:** Claude forgets everything between conversations  
+- β¨ **The Solution:** Semantic search through your chat exports using ChromaDB + LangChain
+- **Tech Stack:** Python β' LangChain β' ChromaDB β' Streamlit β' HuggingFace Embeddings
 
-🎯 **The Problem:** Claude forgets everything between conversations  
-✨ **The Solution:** Semantic search through your chat exports using ChromaDB + LangChain
+### βοΈ [Claude MCP Configs](https://github.com/anix-lynch/claude-mcp-configs)  
+**Model Context Protocol servers & tools** - Enhanced Claude capabilities
+- π **Real-time AI tools** and automation workflows focused on zero-shot productivity
+- **Features:** Filesystem integration, GitHub automation, Memory management
 
-**Tech Stack:** Python • LangChain • ChromaDB • Streamlit • HuggingFace Embeddings
-
-```bash
-# Search your Claude conversations semantically
-python src/search.py "python web scraping tips"
-```
-
-⭐ **Why it matters:** Built a feature that Anthropic doesn't even offer!
-
----
-
-## 🛠️ Tech Stack
-
-**AI & ML:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=database&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Development:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Data & Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### π [Detective Pandas](https://github.com/anix-lynch/detective-pandas)
+**Exploratory data agent** - LangChain + Pandas powered analysis
+- **Tech Stack:** LangChain β' Pandas β' Python
 
 ---
 
-## 🧠 What I'm Building
+## π Certifications & Education
 
-🚀 **AI tools with business intelligence** - Combining technical expertise with strategic investment perspective
-
-### ⚙️ Recent Projects
-
-- 🐼 **Detective Pandas** – Exploratory data agent (LangChain + Pandas)  
-- 🌊 **Stream Dream** – Real-time pipeline factory (Airflow + Kafka)  
-- 🔄 **MCP Integrations** – Claude Model Context Protocol servers & tools
-- 🧪 **gozeroshot.dev** – Cutting-edge AI concept experiments & showcase
-- 🤖 **AI Workflow Automation** – Smart application pipelines with Claude + n8n
-- 💼 **Investment-Grade Analytics** – Due diligence automation for deal flow analysis
+- π **Meta Data Analytics Certificate** (2025)
+- βοΈ **AWS Cloud Essentials+** 
+- π **Scrum Certified** (2012)
+- πΊοΈ **Google Cloud Platform**
+- π **Investment Analysis & Portfolio Management**
 
 ---
 
-## 🚀 ML Portfolio & Data Science
+## π Connect With Me
 
-- 🤗 **[HuggingFace Models](https://huggingface.co/anixlynch)** - NLP models including NER transformers
-- 📈 **[Kaggle Competitions](https://www.kaggle.com/anixlynch)** - Data science challenges & solutions
-- ✍️ **[Medium Articles](https://medium.com/@anixlynch)** - AI & ML engineering insights
-- 🌐 **[Portfolio Website](https://www.gozeroshot.dev)** - Complete project showcase
-- 🎓 **[Professional Credentials](https://github.com/anix-lynch/github-cert-showcase)** - MBA + VC + AI certifications
-
----
-
-## 💡 Current Focus
-
-🧠 **Building AI tools** that bridge the gap between cutting-edge research and practical business applications  
-⚡ **RAG systems** for enterprise knowledge management  
-🤖 **LLM integrations** that solve real investment and business problems  
-🌏 **Global AI expansion** leveraging Japan/APAC market expertise
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anixlynch/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anixlynch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.gozeroshot.dev)
+[![HuggingFace](https://img.shields.io/badge/πΉHugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/anixlynch)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
 
 ---
 
-## 📫 Let's Connect!
+## π GitHub Stats
 
-Always excited to collaborate on AI projects, discuss investment opportunities in AI/ML, or explore Japan/APAC market expansion!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anix-lynch&show_icons=true&theme=radical&count_private=true)
 
-- 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/anixlynch/)
-- 🐦 **Quick thoughts:** [Twitter @anixlynch](https://twitter.com/anixlynch)
-- 📁 **Portfolio:** [gozeroshot.dev](https://www.gozeroshot.dev)
-- 🤗 **ML Models:** [HuggingFace](https://huggingface.co/anixlynch)
-- 📊 **Data Science:** [Kaggle](https://www.kaggle.com/anixlynch)
-- ✍️ **Writing:** [Medium](https://medium.com/@anixlynch)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anix-lynch&layout=compact&theme=radical)
 
 ---
 
-*Quality projects > Vanity metrics* ✨  
-*Investment mindset meets engineering excellence* 🎯
+π§  **Building AI tools that bridge the gap between cutting-edge research and practical applications**
+
+β' **RAG systems for personal knowledge management**  
+π€ **LLM integrations that actually solve real problems**
+
+*Always excited to collaborate on AI projects or discuss the latest in ML engineering!*
+
+**Quality projects > Vanity metrics** β¨
