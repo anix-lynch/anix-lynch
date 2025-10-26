@@ -238,13 +238,6 @@ I combine **20 years of VC/Finance leadership** with **5 years of intensive AI/M
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anixlynch)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
 
----
-
-## 📊 GitHub Stats
-
-![Anix's GitHub stats](https://github-readme-stats.vercel.app/api?username=anix-lynch&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anix-lynch&layout=compact&theme=radical)
 
 ---
 
