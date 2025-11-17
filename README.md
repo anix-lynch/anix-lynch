@@ -104,6 +104,8 @@ Agentic pipeline that creates files, installs, runs, debugs, dockerizes, and dep
 
 ## 📜 Certifications
 
+📜 **[View All Certifications →](https://github.com/anix-lynch/Certification)**
+
 - 📊 **Meta Data Analytics Certificate** (2025)
 - ☁️ **AWS Cloud Essentials+**
 - 🔄 **Scrum Certified** (2012)
