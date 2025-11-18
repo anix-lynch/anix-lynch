@@ -64,20 +64,59 @@ Strategic technology leader with a unique blend of **Investment/VC background** 
 
 ## 🚀 Featured Projects
 
-### 🤖 [Claude RAG Memory Search](https://github.com/anix-lynch/claude-rag-memory-search)
-**Give Claude ChatGPT-style memory** - Local RAG system for searching conversation history
-- 🎯 **The Problem:** Claude forgets everything between conversations  
-- ✨ **The Solution:** Semantic search through your chat exports using ChromaDB + LangChain
-- **Tech Stack:** Python • LangChain • ChromaDB • Streamlit • HuggingFace Embeddings
+**[🌐 View Full Portfolio →](https://www.gozeroshot.dev)**
 
-### ⚙️ [Claude MCP Configs](https://github.com/anix-lynch/claude-mcp-configs)  
-**Model Context Protocol servers & tools** - Enhanced Claude capabilities
-- 🔄 **Real-time AI tools** and automation workflows focused on zero-shot productivity
-- **Features:** Filesystem integration, GitHub automation, Memory management
+### ☁️ Cloud Data Engineering (Multi-Cloud ETL Pipelines)
 
-### 🐼 [Detective Pandas](https://github.com/anix-lynch/detective-pandas)
-**Exploratory data agent** - LangChain + Pandas powered analysis
-- **Tech Stack:** LangChain • Pandas • Python
+**[Coffeeverse: Azure ETL Pipeline](https://github.com/anix-lynch/coffeeverse)**
+Enterprise Microsoft stack: Azure Blob → Functions → Cosmos DB → Data Factory + dbt
+`Python` `Azure` `Docker` `Bicep IaC` • [Docker Demo](http://localhost:8501)
+
+**[Mocktailverse: AWS Serverless Pipeline](https://github.com/anix-lynch/mocktailverse)** | [🔴 Live](https://mocktailverse.streamlit.app)
+Production AWS: S3 → Lambda → Glue → DynamoDB + Airflow orchestration
+`Python` `AWS` `CloudFormation` `dbt` `Docker`
+
+**[Cocktailverse: GCP BigQuery Pipeline](https://github.com/anix-lynch/cocktailverse)** | [🔴 Live](https://cocktailverse-835005185815.us-central1.run.app)
+Real-time GCP data warehouse with Cloud Run deployment
+`Python` `BigQuery` `Cloud Run` `API Integration`
+
+### 🤖 AI & GenAI Applications
+
+**[Multimodal GenAI Studio](https://github.com/anix-lynch/multimodal-genai-studio)** | [🔴 Live](https://multimodal-genai-studio.streamlit.app)
+Text, image, and audio processing with Gemini, DALL-E, Whisper
+`Python` `Streamlit` `Gemini` `DALL-E` `Whisper`
+
+**[AI Business Intelligence Agent](https://github.com/anix-lynch/ai-bi-agent)** | [🔴 Live](https://ai-bi-agent.streamlit.app)
+Natural language data analytics with RAG + vector search
+`Python` `LangChain` `ChromaDB` `Gemini`
+
+### 💼 Finance & Investment Tech
+
+**[Pied Piper Legal Simulator](https://github.com/anix-lynch/pied-piper-legal-simulator)** | [🔴 Live](https://public-ndx6vbur4-anix-lynchs-projects.vercel.app)
+AI-powered VC negotiation simulator with 19+ term-sheet scenarios
+`FastAPI` `React` `DuckDB` `Claude AI` `Vercel`
+
+**[Financial Modeling Automation](https://github.com/anix-lynch/financial-modeling-automation)** | [🔴 Live](https://huggingface.co/spaces/anixlynch/financial-modeling-automation)
+PE/VC cap table analysis and fund economics automation
+`Python` `Streamlit` `openpyxl`
+
+### 📊 Data Science & ML
+
+**[End-to-End Churn ML Pipeline](https://github.com/anix-lynch/churn-ml-pipeline)** | [🔴 Live](https://churn-ml-pipeline-mwvbz4fzdvmd8yvjvz9jak.streamlit.app)
+Complete ML pipeline with RFM analysis and ensemble models
+`Python` `Scikit-learn` `RFM Analysis` `Time-aware Splitting`
+
+**[Real-time Fraud Detection](https://github.com/anix-lynch/realtime-fraud-detection)** | [🔴 Live](https://realtime-fraud-detection-x4uqwkrfnk8g2p567i596x.streamlit.app)
+Feature engineering system with statistical anomaly detection
+`Python` `Real-time Processing` `Behavioral Scoring`
+
+**[Network Intelligence Map](https://github.com/anix-lynch/silicon-beach-jobs-clean)** | [🔴 Live](https://silicon-beach-jobs-clean.streamlit.app/)
+Geospatial network analysis of Silicon Beach tech ecosystem
+`Python` `DuckDB` `Folium` `Network Analysis`
+
+**[Marketing Analytics Visualization](https://github.com/anix-lynch/marketing-analytics-etl)** | [🔴 Live](https://marketing-analytics-etl.streamlit.app/)
+Real-time KPIs and cross-platform campaign attribution
+`Python` `Streamlit` `ECharts` `DuckDB`
 
 ---
 
