@@ -105,13 +105,6 @@ Strategic technology leader with a unique blend of **Investment/VC background** 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anix-lynch&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anix-lynch&layout=compact&theme=radical)
-
----
 
 🧠 **Building AI tools that bridge traditional finance with cutting-edge technology**
 
