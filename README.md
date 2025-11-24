@@ -45,12 +45,16 @@ Strategic technology leader with a unique blend of **Investment/VC background** 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logoColor=white)
+![Snowflake Cortex](https://img.shields.io/badge/Snowflake%20Cortex-35B5E5?style=for-the-badge&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-EA4335?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-35B5E5?style=for-the-badge&logoColor=white)
 ![Cloud Essentials+](https://img.shields.io/badge/Cloud%20Essentials+-FF9900?style=for-the-badge&logoColor=white)
 
 ### 🌐 Web Development
