@@ -29,7 +29,16 @@ I solve the messy problems between "cool demo" and "actually works in production
 DeepLearning.AI Data Engineering · IBM AI Developer · IBM RAG and Agentic AI
 
 ## 🌐 Find Me
-- 🌐 [GoZeroShot.dev](https://gozeroshot.dev) · 🤗 [HuggingFace](https://huggingface.co/anixlynch) · 💼 [LinkedIn](https://linkedin.com/in/anixlynch) · 📧 anix@anixlynch.com
+
+[![YouTube](https://img.shields.io/badge/YouTube-@anix__lynch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@anix_lynch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anixlynch)
+[![X](https://img.shields.io/badge/X-@anixlynch-000000?style=flat&logo=x&logoColor=white)](https://x.com/anixlynch)
+[![GitHub](https://img.shields.io/badge/GitHub-anix--lynch-181717?style=flat&logo=github&logoColor=white)](https://github.com/anix-lynch)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-anixlynch-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/anixlynch)
+[![Medium](https://img.shields.io/badge/Medium-@anixlynch-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
+[![Hashnode](https://img.shields.io/badge/Hashnode-anixblog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://anixblog.hashnode.dev)
+[![Website](https://img.shields.io/badge/Web-GoZeroShot.dev-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://gozeroshot.dev)
+[![Email](https://img.shields.io/badge/Email-anix@anixlynch.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anix@anixlynch.com)
 
 ---
 Ex-VC/PE operations (Expara Venture, BlackRock $850M AUM) → self-taught AI engineer. Building the systems that power production.
