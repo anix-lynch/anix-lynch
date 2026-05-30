@@ -1,44 +1,38 @@
-# Anix Lynch - AI Data Engineer
+# Anix Lynch — AI Platform / GenAI Engineer
 
-**Building production AI systems that don't break at 3 AM.**
+**I build the trust-to-action stack: trusted data → features → evaluated signals → agent actions → accountable human decisions.**
+Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-office operator, so I also own the layer most engineers skip: getting executives and clinicians to actually *adopt* the AI.
 
-## 🎯 What I Do
-I solve the messy problems between "cool demo" and "actually works in production."
-
-**Production proof:**
-- Ragas faithfulness 0.97 (real eval on RAG pipeline, OpenAI judge, 18 pairs)
-- 51 data quality rules across churn pipeline — 100% pass rate (customers, transactions, sessions, support)
-- 14-tool MCP server for multi-agent job intelligence orchestration
-- $1–2/month serverless runtime (AWS Bedrock + Lambda)
-- 98.8% AUC churn prediction (ensemble GradientBoosting, synthetic dataset, scikit-learn)
-
-## 🚀 Featured Projects
-- **Mocktailverse** — Self-healing serverless RAG platform (AWS Bedrock, Titan Embeddings, Next.js)
-- **AI Agent Job Intelligence** — 14-tool MCP server, multi-agent orchestration, ChromaDB memory
-- **Churn ML Pipeline** — 98.8% AUC, Feast feature store, DynamoDB online serving, time-aware validation
-- **Realtime Fraud Detection** — Streaming feature engine, sub-ms in-memory scoring, data quality gates
-- **Coffeeverse / Cocktailverse** — Azure & GCP serverless ETL pipelines
-
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, TypeScript, Bash
-**Data:** dbt, Airflow, Great Expectations, DuckDB, Snowflake, Terraform
-**ML/AI:** PyTorch, HuggingFace, Ragas, LangChain, RAG, Vector DBs
-**Cloud:** AWS (Bedrock, Glue, Kinesis), Azure (ADF, Cosmos DB), GCP (BigQuery, Cloud Run)
-
-## 🏆 Certifications
-DeepLearning.AI Data Engineering · IBM AI Developer · IBM RAG and Agentic AI
-
-## 🌐 Find Me
-
-[![YouTube](https://img.shields.io/badge/YouTube-@anix__lynch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@anix_lynch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anixlynch-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anixlynch)
-[![X](https://img.shields.io/badge/X-@anixlynch-000000?style=flat&logo=x&logoColor=white)](https://x.com/anixlynch)
-[![GitHub](https://img.shields.io/badge/GitHub-anix--lynch-181717?style=flat&logo=github&logoColor=white)](https://github.com/anix-lynch)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-anixlynch-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/anixlynch)
-[![Medium](https://img.shields.io/badge/Medium-@anixlynch-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@anixlynch)
-[![Hashnode](https://img.shields.io/badge/Hashnode-anixblog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://anixblog.hashnode.dev)
-[![Website](https://img.shields.io/badge/Web-GoZeroShot.dev-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://gozeroshot.dev)
-[![Email](https://img.shields.io/badge/Email-anix@anixlynch.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anix@anixlynch.com)
+🌐 [gozeroshot.dev](https://gozeroshot.dev) · 💼 [linkedin.com/in/anixlynch](https://linkedin.com/in/anixlynch)
 
 ---
-Ex-VC/PE operations (Expara Venture, BlackRock $850M AUM) → self-taught AI engineer. Building the systems that power production.
+
+## The architecture I build across (L1 → L3)
+
+| Layer | Question | Live project | Proof |
+|-------|----------|--------------|-------|
+| **L1 Truth** | *Can we trust the data?* | [healthcare-ai-data-engineer](https://github.com/anix-lynch/healthcare-ai-data-engineer) | dbt medallion on BigQuery · **55 tests green** · quality gate · PII masking |
+| **L1.25 Context** | *How should machines see it?* | ↳ same repo (**Feast** feature store) | point-in-time-correct patient features |
+| **L1.5 Signals** ★ | *What might happen?* | [healthcare-signal-platform](https://github.com/anix-lynch/healthcare-signal-platform) | 5 evaluated signals → agent · anomaly **F1 0.85** · cluster silhouette 0.41 (535/40K) · classify ±1-tier **100%** |
+| **L2 Action** | *What should the system do?* | [healthcare-genai-engineer](https://github.com/anix-lynch/healthcare-genai-engineer) | RAG · BM25+dense+RRF · PII guardrails · **CI eval gate** |
+| **L3 Influence** | *Will humans adopt it?* | [healthcare-forward-deployed-engineer](https://github.com/anix-lynch/healthcare-forward-deployed-engineer) | VPC deploy · runbook · postmortems · human Approve/Override |
+
+**★ The flagship proves it:** the [live Signal Console](https://signal-console-819957310168.us-west1.run.app) runs an **ablation** — the same Gemini agent decides *with* the signals vs *without*. On the ops-capacity case the call visibly flips **WATCH → ACT NOW**. Signals change the decision; they don't just decorate it. Evals tracked in [Weights & Biases](https://wandb.ai/alynch-zeroshot/healthcare-l15-signals), agent calls traced in Langfuse.
+
+---
+
+## Why the whole chain (not one layer)
+
+Most engineers stop at L2. Most executives start at L3. **Few people understand the entire chain** — Truth → Context → Signals → Actions → Human adoption. That's the rare part, and it's where 10 years of VC / family-office / CEO-office translation (tech ↔ business ↔ stakeholder) becomes a moat.
+
+---
+
+## Stack
+**AI/Platform:** Vertex AI · Gemini · Signal Intelligence · Decision Intelligence · Feature Stores (Feast) · anomaly/cluster/classify/rank
+**GenAI:** RAG · hybrid retrieval (BM25/dense/RRF) · agents · tool calling · guardrails · LLM eval · vector search (Chroma/Pinecone/Qdrant)
+**Data:** dbt · BigQuery · analytics engineering · medallion · data contracts · governance · Snowflake · DuckDB · Microsoft Fabric · Power BI
+**Cloud/Infra:** GCP · Cloud Run · AWS Bedrock · Azure · Docker · FastAPI · GitHub Actions
+**Eval/Obs:** Weights & Biases · Langfuse · Ragas-style eval · CI regression gates
+**Languages:** Python · SQL
+
+*MBA, University of Chicago Booth · JLPT N1 · Authorized to work in the US (Green Card)*
