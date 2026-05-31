@@ -1,7 +1,7 @@
 # Anix Lynch — AI Platform / GenAI Engineer
 
 **I build the trust-to-action stack: trusted data → features → evaluated signals → agent actions → accountable human decisions.**
-Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-office operator, so I also own the layer most engineers skip: getting executives and clinicians to actually *adopt* the AI.
+Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-office operator, so I also own the layer most engineers skip: getting executives to actually *adopt* the AI.
 
 🌐 [gozeroshot.dev](https://gozeroshot.dev) · 💼 [linkedin.com/in/anixlynch](https://linkedin.com/in/anixlynch)
 
@@ -12,9 +12,9 @@ Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-o
 | Layer | Question | Live project | Proof |
 |-------|----------|--------------|-------|
 | **L1 Truth** | *Can we trust the data?* | [healthcare-ai-data-engineer](https://github.com/anix-lynch/healthcare-ai-data-engineer) | dbt medallion on BigQuery · **55 tests green** · quality gate · PII masking |
-| **L1.25 Context** | *How should machines see it?* | ↳ same repo (**Feast** feature store) | point-in-time-correct patient features |
+| **L1.25 Context** | *How should AI agents see it?* | ↳ same repo (**Feast** feature store) | point-in-time-correct patient features |
 | **L1.5 Signals** ★ | *What might happen?* | [healthcare-signal-platform](https://github.com/anix-lynch/healthcare-signal-platform) | 5 evaluated signals → agent · anomaly **F1 0.85** · cluster silhouette 0.41 (535/40K) · classify ±1-tier **100%** |
-| **L2 Action** | *What should the system do?* | [healthcare-genai-engineer](https://github.com/anix-lynch/healthcare-genai-engineer) | RAG · BM25+dense+RRF · PII guardrails · **CI eval gate** |
+| **L2 Action** | *What should the agent do?* | [healthcare-genai-engineer](https://github.com/anix-lynch/healthcare-genai-engineer) | RAG · BM25+dense+RRF · PII guardrails · **CI eval gate** |
 | **L3 Influence** | *Will humans adopt it?* | [healthcare-forward-deployed-engineer](https://github.com/anix-lynch/healthcare-forward-deployed-engineer) | VPC deploy · runbook · postmortems · human Approve/Override |
 
 **★ The flagship proves it:** the [live Signal Console](https://signal-console-819957310168.us-west1.run.app) runs an **ablation** — the same Gemini agent decides *with* the signals vs *without*. On the ops-capacity case the call visibly flips **WATCH → ACT NOW**. Signals change the decision; they don't just decorate it. Evals tracked in [Weights & Biases](https://wandb.ai/alynch-zeroshot/healthcare-l15-signals), agent calls traced in Langfuse.
