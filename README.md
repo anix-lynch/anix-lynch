@@ -1,4 +1,4 @@
-# Anix Lynch — AI Platform / GenAI Engineer
+# ✨ Anix Lynch — AI Platform / GenAI Engineer
 
 **I build the trust-to-action stack: trusted data → features → evaluated signals → agent actions → accountable human decisions.**
 Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-office operator, so I also own the layer most engineers skip: getting executives to actually *adopt* the AI.
