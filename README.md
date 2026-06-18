@@ -1,9 +1,11 @@
-# ✨ Anix Lynch — AI Platform / GenAI Engineer
+# ✨ Anix Lynch — AI/Data Engineer · Los Angeles
 
 **I build the trust-to-action stack: trusted data → features → evaluated signals → agent actions → accountable human decisions.**
 Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-office operator, so I also own the layer most engineers skip: getting executives to actually *adopt* the AI.
 
-🌐 [gozeroshot.dev](https://gozeroshot.dev) · 💼 [linkedin.com/in/anixlynch](https://linkedin.com/in/anixlynch)
+📍 Los Angeles, CA · GCP · AWS · Azure · dbt · Vertex AI · RAG · Python
+
+🌐 [gozeroshot.dev](https://gozeroshot.dev) · 💼 [linkedin.com/in/anixlynch](https://linkedin.com/in/anixlynch) · 🦋 [anixlynch.bsky.social](https://bsky.app/profile/anixlynch.bsky.social)
 
 ---
 
