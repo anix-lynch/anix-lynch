@@ -1,40 +1,70 @@
-# ✨ Anix Lynch — AI/Data Engineer · Los Angeles
+# Anix Lynch - AI/Data Engineer · Los Angeles
 
-**I build the trust-to-action stack: trusted data → features → evaluated signals → agent actions → accountable human decisions.**
-Live, evaluated systems on Cloud Run + Vertex AI — not demos. Ex-VC / family-office operator, so I also own the layer most engineers skip: getting executives to actually *adopt* the AI.
+**Applied AI engineer building RAG, agent, and data-platform systems that can be evaluated, deployed, and handed to humans safely.**
 
-📍 Los Angeles, CA · GCP · AWS · Azure · dbt · Vertex AI · RAG · Python
+I build the trust-to-action stack:
 
-🌐 [gozeroshot.dev](https://gozeroshot.dev) · 💼 [linkedin.com/in/anixlynch](https://linkedin.com/in/anixlynch) · 🦋 [anixlynch.bsky.social](https://bsky.app/profile/anixlynch.bsky.social)
+`Trusted Data -> Retrieval -> Signals -> Agent Actions -> Evals/Telemetry -> Human Adoption`
+
+Live, evaluated systems on Cloud Run + Vertex AI, with the data backbone,
+quality gates, retrieval layer, eval harness, observability, and adoption loop
+around the model.
+
+Los Angeles, CA · Python · SQL · GCP · AWS · Azure · dbt · Vertex AI · RAG · Agents
+
+[Portfolio](https://gozeroshot.dev) · [LinkedIn](https://linkedin.com/in/anixlynch) · [Bluesky](https://bsky.app/profile/anixlynch.bsky.social) · [YouTube](https://youtube.com/@anix_lynch) · [Medium](https://medium.com/@anixlynch)
 
 ---
 
-## The architecture I build across (L1 → L3)
+## What I Build
+
+- **RAG systems:** hybrid retrieval, citations, grounding checks, vector search, and eval gates.
+- **AI agents:** LangGraph-style workflows, tool calling, bounded actions, safety brakes, and human review.
+- **AI data platforms:** dbt/BigQuery/Fabric data layers, quality gates, contracts, semantic layers, and agent-readable APIs.
+- **Evaluation + telemetry:** Ragas-style evals, regression gates, Langfuse, Weights & Biases, OpenTelemetry, logs, and cost tracking.
+- **Cloud deployment:** FastAPI services on Cloud Run/Vercel/AWS patterns with Docker, GitHub Actions, and scale-to-zero cost discipline.
+
+## Architecture Proof (L1 -> L3)
 
 | Layer | Question | Live project | Proof |
 |-------|----------|--------------|-------|
-| **L1 Truth** | *Can we trust the data?* | [healthcare-ai-data-engineer](https://github.com/anix-lynch/healthcare-ai-data-engineer) | dbt medallion on BigQuery · **55 tests green** · quality gate · PII masking |
-| **L1.25 Context** | *How should AI agents see it?* | ↳ same repo (**Feast** feature store) | point-in-time-correct patient features |
-| **L1.5 Signals** ★ | *What might happen?* | [healthcare-signal-platform](https://github.com/anix-lynch/healthcare-signal-platform) | 5 evaluated signals → agent · anomaly **F1 0.85** · cluster silhouette 0.41 (535/40K) · classify ±1-tier **100%** |
-| **L2 Action** | *What should the agent do?* | [healthcare-genai-engineer](https://github.com/anix-lynch/healthcare-genai-engineer) | RAG · BM25+dense+RRF · PII guardrails · **CI eval gate** |
-| **L3 Influence** | *Will humans adopt it?* | [healthcare-forward-deployed-engineer](https://github.com/anix-lynch/healthcare-forward-deployed-engineer) | VPC deploy · runbook · postmortems · human Approve/Override |
+| **L1 Truth** | Can we trust the data? | [healthcare-ai-data-engineer](https://github.com/anix-lynch/healthcare-ai-data-engineer) | dbt medallion on BigQuery · **55 tests green** · quality gate · PII masking |
+| **L1.25 Context** | How should AI agents see it? | same repo, **Feast** feature store | point-in-time-correct patient features |
+| **L1.5 Signals** | What might happen? | [healthcare-signal-platform](https://github.com/anix-lynch/healthcare-signal-platform) | 5 evaluated signals -> agent · anomaly **F1 0.85** · classify +/-1-tier **100%** |
+| **L2 Action** | What should the agent do? | [healthcare-genai-engineer](https://github.com/anix-lynch/healthcare-genai-engineer) | RAG · BM25+dense+RRF · PII guardrails · **CI eval gate** |
+| **L3 Adoption** | Will humans use it? | [healthcare-forward-deployed-engineer](https://github.com/anix-lynch/healthcare-forward-deployed-engineer) | LangGraph/FastAPI handoff · runbook · OpenTelemetry · Approve/Override |
 
-**★ The flagship proves it:** the [live Signal Console](https://signal-console-819957310168.us-west1.run.app) runs an **ablation** — the same Gemini agent decides *with* the signals vs *without*. On the ops-capacity case the call visibly flips **WATCH → ACT NOW**. Signals change the decision; they don't just decorate it. Evals tracked in [Weights & Biases](https://wandb.ai/alynch-zeroshot/healthcare-l15-signals), agent calls traced in Langfuse.
+The flagship [Signal Console](https://signal-console-819957310168.us-west1.run.app) runs an ablation: the same Gemini agent decides with signals vs. without signals. On the ops-capacity case, the call visibly flips **WATCH -> ACT NOW**. Evals are tracked in [Weights & Biases](https://wandb.ai/alynch-zeroshot/healthcare-l15-signals), and agent calls are traced in Langfuse.
 
----
+## Production Proof
 
-## Why the whole chain (not one layer)
+- **0.97 Ragas faithfulness** on a RAG pipeline evaluation.
+- **0.85 anomaly F1** on a signal platform that routes cases before the LLM spends tokens.
+- **21 acceptance tests** for a healthcare forward-deployed AI handoff layer.
+- **100% action-safety floors** across 50 Baymax ER agent scenarios.
+- **55/55 dbt tests green** on a healthcare AI data-engineering stack.
+- **$1-2/month serverless runtime** pattern for low-traffic production AI demos.
 
-Most engineers stop at L2. Most executives start at L3. **Few people understand the entire chain** — Truth → Context → Signals → Actions → Human adoption. That's the rare part, and it's where 10 years of VC / family-office / CEO-office translation (tech ↔ business ↔ stakeholder) becomes a moat.
+## Other Public Proof
 
----
+- [AI Agent Job Intelligence](https://github.com/anix-lynch/ai-agent-job-intelligence-phase-2) - resume-aware multi-agent system with semantic search, ATS scoring, and 14 MCP tools.
+- [Healthcare Analytics on Microsoft Fabric](https://github.com/anix-lynch/healthcare-da) - code-reviewed Power BI semantic model, Fabric REST deployment, and openFDA counts reconciled against the cloud data layer.
+- [Realtime Fraud Detection](https://github.com/anix-lynch/realtime-fraud-detection) - streaming risk-scoring surface with feature freshness checks, sub-ms scoring path, and data quality gates.
 
 ## Stack
-**AI/Platform:** Vertex AI · Gemini · Signal Intelligence · Decision Intelligence · Feature Stores (Feast) · anomaly/cluster/classify/rank
-**GenAI:** RAG · hybrid retrieval (BM25/dense/RRF) · agents · tool calling · guardrails · LLM eval · vector search (Chroma/Pinecone/Qdrant)
-**Data:** dbt · BigQuery · analytics engineering · medallion · data contracts · governance · Snowflake · DuckDB · Microsoft Fabric · Power BI
-**Cloud/Infra:** GCP · Cloud Run · AWS Bedrock · Azure · Docker · FastAPI · GitHub Actions
-**Eval/Obs:** Weights & Biases · Langfuse · Ragas-style eval · CI regression gates
-**Languages:** Python · SQL
 
-*MBA, University of Chicago Booth · JLPT N1 · Authorized to work in the US (Green Card)*
+- **Languages:** Python, SQL, TypeScript, Bash
+- **AI + Agents:** RAG, LangGraph, LangChain, MCP, tool calling, guardrails, eval harnesses
+- **Retrieval:** BM25, hybrid retrieval, semantic search, pgvector, ChromaDB, Pinecone, Qdrant
+- **Data:** dbt, BigQuery, Microsoft Fabric/OneLake, DuckDB, Snowflake, Feast, Great Expectations
+- **Eval + Telemetry:** Ragas-style evals, Langfuse, Weights & Biases, OpenTelemetry, MLflow, CI regression gates
+- **Cloud + App:** GCP Cloud Run/Vertex AI/Gemini, AWS Bedrock, Azure/Fabric, FastAPI, Docker, GitHub Actions
+- **BI + Analytics:** Power BI, DAX, Direct Lake, TMDL, semantic models, governed dashboards
+
+## Background
+
+Ex-VC/GP and operator turned applied AI engineer. I have screened 700+ startups,
+worked across investment and operating teams, and now build the AI/data systems I
+used to wish existed during diligence, portfolio support, and enterprise adoption.
+
+MBA, University of Chicago Booth · JLPT N1 · Authorized to work in the US
