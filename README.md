@@ -14,6 +14,8 @@ Los Angeles, CA · Python · SQL · GCP · AWS · Azure · dbt · Vertex AI · R
 
 [Portfolio](https://gozeroshot.dev) · [LinkedIn](https://linkedin.com/in/anixlynch) · [Bluesky](https://bsky.app/profile/anixlynch.bsky.social) · [YouTube](https://youtube.com/@anix_lynch) · [Medium](https://medium.com/@anixlynch)
 
+Full proof-backed stack map: [tech-stack.md](./tech-stack.md)
+
 ---
 
 ## What I Build
