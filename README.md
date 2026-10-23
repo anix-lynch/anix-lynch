@@ -144,8 +144,9 @@ I am most useful on teams turning AI ambition into operational systems:
 - forward-deployed and solutions engineering
 - investment, financial-services, healthcare, and other evidence-sensitive domains
 
-If the job requires someone who can speak with the business, inspect the data,
-design the control plane, write the service, evaluate the behavior, and explain
-the tradeoffs clearly, that is the work I do.
+I like collaborating on challenges that require moving comfortably between
+business context and system behavior—inspecting data, designing control planes,
+building services, evaluating outcomes, and making tradeoffs legible to everyone
+involved.
 
 **MBA, University of Chicago Booth** · **JLPT N1** · **Authorized to work in the US**
